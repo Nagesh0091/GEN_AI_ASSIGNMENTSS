@@ -9,7 +9,7 @@ A collection of my Generative AI assignments, from Python basics and NLP fundame
 | App | Description | Live URL |
 |-----|-------------|----------|
 | 💌 **AI Greeting Card Assistant** (`app.py`) | Basic version: enter occasion, recipient and tone to get a greeting message | 👉 `https://greeting-card.streamlit.app/` |
-| 💌 **AI Greeting Card Assistant, Advanced** (`app_advanced.py`) | Dropdowns with an "Other" option, 3 samples (1 handwritten prompt + 2 AI-written prompts), language and length options, styled UI, download | 👉 `PASTE-YOUR-PUBLIC-URL-HERE` |
+| 💌 **AI Greeting Card Assistant, Advanced** (`app_advanced.py`) | Dropdowns with an "Other" option, 3 samples (1 handwritten prompt + 2 AI-written prompts), language and length options, styled UI, download | 👉 `https://greeting-cards.streamlit.app/` |
 
 ---
 
